@@ -105,6 +105,7 @@ LOCAL SeqPhaseGui IS list().
 function StoreSeqPhaseLocation { //store gui locations to file
 	UpdateSeqPhaseLocation().
 	LOCAL guisizefile TO path("/AP/Sequencer/SeqPhaseXY.json").
+	Create(guisizefile).
 	writejson(SeqPhaseGuiXY,guisizefile). 
 }
 
@@ -458,6 +459,7 @@ function AddReplacePhase {
 function SaveSequence {
 	parameter Sequence.
 	LOCAL filename TO path("/AP/Sequencer/Sequences/"+Sequence["SeqName"]+".json").
+	Create(filename).
 	writejson(Sequence,filename). 
 	
 }
@@ -717,6 +719,7 @@ LOCAL SeqCondGuiXY TO list(1200,800).
 function StoreSeqCondLocation { //store gui location to file
 	UpdateSeqCondLocation().
 	LOCAL guisizefile TO path("/AP/Sequencer/SeqCondxy.json").
+	Create(guisizefile).
 	writejson(SeqCondGuiXY,guisizefile). 
 }
 
