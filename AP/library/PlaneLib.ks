@@ -86,6 +86,7 @@ function SavePlaneStats {
 	parameter PlaneStatsLocal, file.
 	SavePlaneStatFile(ship:name,file).
 	SET file TO PlaneStatsFilePath(file).
+	Create(file).
 	writejson(PlaneStatsLocal,file).
 }
 
@@ -101,6 +102,7 @@ function LoadPlanePreset {
 function SavePlanePreset {
 	parameter PlaneStatsLocal, file.
 	SET file TO PlaneStatsPresetPath(file).
+	Create(file).
 	writejson(PlaneStatsLocal,file).
 }
 
@@ -139,6 +141,7 @@ function SavePlaneStatFile {
 		SET PlaneFile TO readjson(PlaneStatListPath).
 	}
 	SET PlaneFile[shipname1] TO filename.
+	Create(PlaneStatListPath).
 	writejson(PlaneFile,PlaneStatListPath).
 }
 
@@ -343,6 +346,7 @@ function RunwaysLoad {	//load runways from the file
 function RunwaysSave {	//write runways to the file
 	parameter SaveRunways.
 	LOCAL runwayfile TO path("0:/AP/json/runways.json").
+	Create(runwayfile).
 	writejson(SaveRunways,runwayfile). 
 }
 
