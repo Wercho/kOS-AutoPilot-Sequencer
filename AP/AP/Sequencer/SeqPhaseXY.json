@@ -1,0 +1,135 @@
+{
+    "items": [
+        {
+            "items": [
+                {
+                    "value": 1476,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 334,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 1275,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 1074,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 873,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 672,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 471,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 270,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 69,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 342,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 1273,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 643,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        },
+        {
+            "items": [
+                {
+                    "value": 1072,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                },
+                {
+                    "value": 643,
+                    "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.ListValue"
+}

@@ -1,0 +1,153 @@
+{
+    "entries": [
+        {
+            "value": "type",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "Sequencer",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "mode",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "Sequence",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "SeqName",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "Default",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "Display",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "Seq: Default",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": "SubState",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "items": [
+                {
+                    "entries": [
+                        {
+                            "value": "Display",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "END",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "type",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "None",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "mode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "None",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "SubState",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "entries": [
+                                
+                            ],
+                            "$type": "kOS.Safe.Encapsulation.Lexicon"
+                        },
+                        {
+                            "value": "Conditions",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "entries": [
+                                {
+                                    "value": "root",
+                                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                                },
+                                {
+                                    "entries": [
+                                        {
+                                            "value": "Display",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "<b>END</b>",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "condition",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "END",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "type",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "End",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": "parent",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "value": -1,
+                                            "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                                        },
+                                        {
+                                            "value": "children",
+                                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                                        },
+                                        {
+                                            "items": [
+                                                
+                                            ],
+                                            "$type": "kOS.Safe.Encapsulation.ListValue"
+                                        }
+                                    ],
+                                    "$type": "kOS.Safe.Encapsulation.Lexicon"
+                                }
+                            ],
+                            "$type": "kOS.Safe.Encapsulation.Lexicon"
+                        },
+                        {
+                            "value": "AddDelay",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": 0,
+                            "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+                        }
+                    ],
+                    "$type": "kOS.Safe.Encapsulation.Lexicon"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.Lexicon"
+}

@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "value": 1678,
+            "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+        },
+        {
+            "value": 334,
+            "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.ListValue"
+}
